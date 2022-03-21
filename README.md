@@ -9,4 +9,4 @@ GithubFinder is a react application to search and view github users using github
 3. npm start
 
 --live demo---
-Link:
+Link: https://github-finder-m1mqjkvwe-prateek007purohit.vercel.app/
